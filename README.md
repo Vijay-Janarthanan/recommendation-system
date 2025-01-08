@@ -61,10 +61,10 @@ Follow these steps to set up the project on your local machine:
 ## 🌟 Screenshots
 
 🎥 **Movie Recommendations:**
-![Movies Screenshot](path-to-screenshot-movie.png)
+![Movies Screenshot](Images/movie-recommendation.png)
 
 🐉 **Anime Recommendations:**
-![Anime Screenshot](path-to-screenshot-anime.png)
+![Anime Screenshot](Images/anime-recommendation.png)
 
 ---
 
